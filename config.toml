@@ -1,0 +1,74 @@
+baseURL = 'http://carlosgruiz-dev.github.io/'
+languageCode = 'en-us'
+title = 'Carlos Gustavo Ruiz'
+paginate = 8
+publishDir = "docs"
+theme = "PaperMod"
+defaultTheme = "light"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+description = "technical curiosities log and random thoughts"
+
+    [params.homeInfoParams]
+    title = "Hi there!"
+    Content = "some text"
+
+
+    [params.profileMode]
+    enabled = true
+    subtitle = "Systems Engineer"
+    imageUrl = "https://avatars.githubusercontent.com/u/1821644?v=4"
+    imageWidth = 240
+    imageHeight = 240
+
+
+    [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/carlosgruiz-dev"
+
+    [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/carlosgruiz-dev"
+
+    [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/carlosgruiz_dev"
+
+    [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/atmantree"
+
+
+[[menu.main]]
+identifier = "atmantree"
+name = "blog"
+url = "https://atmantree.com"
+weight = 30
+
+[[menu.main]]
+identifier = "wiki"
+name = "wiki"
+url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki"
+weight = 40
+
+[[menu.main]]
+identifier = "talks"
+name = "talks"
+url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Talks"
+weight = 50
+
+[[menu.main]]
+identifier = "bookmarks"
+name = "bookmarks"
+url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Bookmarks"
+weight = 60
+
+[[menu.main]]
+identifier = "now"
+name = "now"
+url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Now"
+weight = 70
