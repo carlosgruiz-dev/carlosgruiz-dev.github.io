@@ -40,7 +40,7 @@ description = "technical curiosities log and random thoughts"
 
     [[params.socialIcons]]
     name = "telegram"
-    url = "https://t.me/atmantree"
+    url = "https://t.me/carlosgruiz_dev"
 
 
 [[menu.main]]
