@@ -58,17 +58,17 @@ weight = 40
 [[menu.main]]
 identifier = "talks"
 name = "talks"
-url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Talks"
+url = "/talks/"
 weight = 50
 
 [[menu.main]]
 identifier = "bookmarks"
 name = "bookmarks"
-url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Bookmarks"
+url = "/bookmarks/"
 weight = 60
 
 [[menu.main]]
 identifier = "now"
 name = "now"
-url = "https://github.com/carlosgruiz-dev/carlosgruiz-dev/wiki/Now"
+url = "/now/"
 weight = 70
