@@ -66,6 +66,6 @@ segura a ganador, la Geomática Libre en Venezuela.
 Para más datos:
 
 - [Nota de Prensa del CNTI](http://www.cnti.gob.ve/index.php?option=com_content&view=article&id=2597:profesionales-se-forman-en-openstreetmap-para-la-creacion-del-mapa-colaborativo-de-venezuela&catid=43:actualidad&Itemid=71)
-- Presentaciones: [Presentacion Gobierno en Línea](https://github.com/atmantree/atmantree/raw/master/talks/2012/PresentacionGobiernoenLinea.pdf),
-    [Geomática Libre con OpenStreetMap](https://github.com/atmantree/atmantree/raw/master/talks/2012/Presentaci%C3%B3n-OSM.pdf)
+- Presentaciones: [Presentacion Gobierno en Línea](/talks/2012/PresentacionGobiernoenLinea.pdf),
+    [Geomática Libre con OpenStreetMap](/talks/2012/Presentaci%C3%B3n-OSM.pdf)
 
