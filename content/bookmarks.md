@@ -15,6 +15,7 @@ draft: false
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting by Mendel Cooper.
 * [Advent of Code](https://adventofcode.com/) - is a series of small programming puzzles for a variety of skill levels.
 * [Algo Deck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview
+* [Ammonite](http://ammonite.io/) - Ammonite lets you use the Scala language for scripting purposes: in the REPL or as scripts.
 * [Android Studio](https://developer.android.com/studio/index.html) - The Official IDE for Android.
 * [AngelList](https://angel.co/) - Get a job at a startup.
 * [Angular CLI](https://cli.angular.io/) - A command line interface for Angular.
@@ -389,6 +390,7 @@ draft: false
 * [Material UI Colors](http://materialuicolors.co/) - Color Palette for Material Design.
 * [Microsoft Bot Framework Composer](https://github.com/Microsoft/BotFramework-Composer) - an open-source, visual authoring canvas for developers and multi-disciplinary teams to design and build conversational experiences with Language Understanding and QnA Maker, and a sophisticated composition of bot replies (Language Generation).
 * [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 for data scientists.
+* [Mito](https://www.trymito.io/) - is a spreadsheet that helps you complete your Python analyses 10x faster. You edit the Mitosheet, and it generates Python code for you.
 * [MkDocs](https://www.mkdocs.org/) - a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 * [Moby Project](https://mobyproject.org/) - an open framework created by Docker to assemble specialized container systems without reinventing the wheel.
 * [Modernizr](https://modernizr.com/) - Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
@@ -524,6 +526,7 @@ draft: false
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader.
 * [Responsimulator](http://www.responsimulator.com/) - See how your page looks on the iPhone.
 * [Rest for Haskell](http://silkapp.github.io/rest/) - Write REST APIs in Haskell, generate documentation and client libraries.
+* [Retool](https://retool.com/) - Retool is a fast and easy way to build and maintain internal tools.
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources.
 * [Rufus](http://rufus.ie) - Create bootable USB drives the easy way.
 * [Rundeck](https://www.rundeck.com/ ) - enable anyone to safely execute self-service operations tasks that previously only subject matter experts could perform.
@@ -570,6 +573,7 @@ draft: false
 * [Shields IO](http://shields.io/) - Quality metadata badges for open source projects.
 * [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards.
 * [Side Project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects.
+* [Simple Haskell Initiative](https://www.simplehaskell.org/) - Industrial Haskell users are realizing that the key to delivering software on time and under budget is to keep it simple.
 * [Simple Maps](https://simplemaps.com/) - Interactive HTML5 Maps
 * [Simple Python Version Manager: pyenv](https://github.com/pyenv/pyenv) - pyenv lets you easily switch between multiple versions of Python.
 * [Singer - Simple, Composable, Open Source ETL](https://www.singer.io/) - The open-source standard for writing scripts that move data.
