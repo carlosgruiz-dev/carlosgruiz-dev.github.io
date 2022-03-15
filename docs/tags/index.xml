@@ -2,440 +2,440 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Carlos Gustavo Ruiz</title>
-    <link>http://carlosgruiz-dev.github.io/tags/</link>
+    <link>https://carlosgustavoruiz.me/tags/</link>
     <description>Recent content in Tags on Carlos Gustavo Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 16:26:16 -0500</lastBuildDate><atom:link href="http://carlosgruiz-dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Sep 2018 16:26:16 -0500</lastBuildDate><atom:link href="https://carlosgustavoruiz.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>collaborations</title>
-      <link>http://carlosgruiz-dev.github.io/tags/collaborations/</link>
+      <link>https://carlosgustavoruiz.me/tags/collaborations/</link>
       <pubDate>Fri, 21 Sep 2018 16:26:16 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/collaborations/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/collaborations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>community</title>
-      <link>http://carlosgruiz-dev.github.io/tags/community/</link>
+      <link>https://carlosgustavoruiz.me/tags/community/</link>
       <pubDate>Fri, 21 Sep 2018 16:26:16 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/community/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://carlosgruiz-dev.github.io/tags/python/</link>
+      <link>https://carlosgustavoruiz.me/tags/python/</link>
       <pubDate>Fri, 21 Sep 2018 16:26:16 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/python/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spanish</title>
-      <link>http://carlosgruiz-dev.github.io/tags/spanish/</link>
+      <link>https://carlosgustavoruiz.me/tags/spanish/</link>
       <pubDate>Fri, 21 Sep 2018 16:26:16 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/spanish/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/spanish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>http://carlosgruiz-dev.github.io/tags/video/</link>
+      <link>https://carlosgustavoruiz.me/tags/video/</link>
       <pubDate>Fri, 21 Sep 2018 16:26:16 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/video/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
-      <link>http://carlosgruiz-dev.github.io/tags/english/</link>
+      <link>https://carlosgustavoruiz.me/tags/english/</link>
       <pubDate>Sun, 04 Mar 2018 21:48:46 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/english/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>haskell</title>
-      <link>http://carlosgruiz-dev.github.io/tags/haskell/</link>
+      <link>https://carlosgustavoruiz.me/tags/haskell/</link>
       <pubDate>Sun, 04 Mar 2018 21:48:46 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/haskell/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/haskell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lab</title>
-      <link>http://carlosgruiz-dev.github.io/tags/lab/</link>
+      <link>https://carlosgustavoruiz.me/tags/lab/</link>
       <pubDate>Sun, 04 Mar 2018 21:48:46 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/lab/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open source</title>
-      <link>http://carlosgruiz-dev.github.io/tags/open-source/</link>
+      <link>https://carlosgustavoruiz.me/tags/open-source/</link>
       <pubDate>Sun, 04 Mar 2018 21:48:46 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/open-source/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dogfooding</title>
-      <link>http://carlosgruiz-dev.github.io/tags/dogfooding/</link>
+      <link>https://carlosgustavoruiz.me/tags/dogfooding/</link>
       <pubDate>Sun, 21 Aug 2016 22:46:02 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/dogfooding/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/dogfooding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>freebsd</title>
-      <link>http://carlosgruiz-dev.github.io/tags/freebsd/</link>
+      <link>https://carlosgustavoruiz.me/tags/freebsd/</link>
       <pubDate>Sun, 21 Aug 2016 22:46:02 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/freebsd/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/freebsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talks</title>
-      <link>http://carlosgruiz-dev.github.io/tags/talks/</link>
+      <link>https://carlosgustavoruiz.me/tags/talks/</link>
       <pubDate>Fri, 22 Apr 2016 16:34:32 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/talks/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vim</title>
-      <link>http://carlosgruiz-dev.github.io/tags/vim/</link>
+      <link>https://carlosgustavoruiz.me/tags/vim/</link>
       <pubDate>Fri, 22 Apr 2016 16:34:32 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/vim/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentation</title>
-      <link>http://carlosgruiz-dev.github.io/tags/documentation/</link>
+      <link>https://carlosgustavoruiz.me/tags/documentation/</link>
       <pubDate>Fri, 13 Mar 2015 15:50:34 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/documentation/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>http://carlosgruiz-dev.github.io/tags/git/</link>
+      <link>https://carlosgustavoruiz.me/tags/git/</link>
       <pubDate>Mon, 22 Sep 2014 15:43:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/git/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gentoo</title>
-      <link>http://carlosgruiz-dev.github.io/tags/gentoo/</link>
+      <link>https://carlosgustavoruiz.me/tags/gentoo/</link>
       <pubDate>Sun, 02 Feb 2014 21:41:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/gentoo/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/gentoo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guides</title>
-      <link>http://carlosgruiz-dev.github.io/tags/guides/</link>
+      <link>https://carlosgustavoruiz.me/tags/guides/</link>
       <pubDate>Sun, 02 Feb 2014 21:41:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/guides/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/guides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ide</title>
-      <link>http://carlosgruiz-dev.github.io/tags/ide/</link>
+      <link>https://carlosgustavoruiz.me/tags/ide/</link>
       <pubDate>Sun, 02 Feb 2014 21:41:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/ide/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/ide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terms</title>
-      <link>http://carlosgruiz-dev.github.io/tags/terms/</link>
+      <link>https://carlosgustavoruiz.me/tags/terms/</link>
       <pubDate>Fri, 31 Jan 2014 03:11:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/terms/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/terms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>databases</title>
-      <link>http://carlosgruiz-dev.github.io/tags/databases/</link>
+      <link>https://carlosgustavoruiz.me/tags/databases/</link>
       <pubDate>Wed, 30 Oct 2013 23:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/databases/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/databases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>memcached</title>
-      <link>http://carlosgruiz-dev.github.io/tags/memcached/</link>
+      <link>https://carlosgustavoruiz.me/tags/memcached/</link>
       <pubDate>Wed, 30 Oct 2013 23:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/memcached/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/memcached/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mongodb</title>
-      <link>http://carlosgruiz-dev.github.io/tags/mongodb/</link>
+      <link>https://carlosgustavoruiz.me/tags/mongodb/</link>
       <pubDate>Wed, 30 Oct 2013 23:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/mongodb/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postegresql</title>
-      <link>http://carlosgruiz-dev.github.io/tags/postegresql/</link>
+      <link>https://carlosgustavoruiz.me/tags/postegresql/</link>
       <pubDate>Wed, 30 Oct 2013 23:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/postegresql/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/postegresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redis</title>
-      <link>http://carlosgruiz-dev.github.io/tags/redis/</link>
+      <link>https://carlosgustavoruiz.me/tags/redis/</link>
       <pubDate>Wed, 30 Oct 2013 23:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/redis/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best practices</title>
-      <link>http://carlosgruiz-dev.github.io/tags/best-practices/</link>
+      <link>https://carlosgustavoruiz.me/tags/best-practices/</link>
       <pubDate>Wed, 30 Oct 2013 22:12:04 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/best-practices/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/best-practices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tubasededatoslibre</title>
-      <link>http://carlosgruiz-dev.github.io/tags/tubasededatoslibre/</link>
+      <link>https://carlosgustavoruiz.me/tags/tubasededatoslibre/</link>
       <pubDate>Fri, 06 Sep 2013 11:00:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/tubasededatoslibre/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/tubasededatoslibre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>framework</title>
-      <link>http://carlosgruiz-dev.github.io/tags/framework/</link>
+      <link>https://carlosgustavoruiz.me/tags/framework/</link>
       <pubDate>Tue, 20 Aug 2013 08:18:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/framework/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pyramid</title>
-      <link>http://carlosgruiz-dev.github.io/tags/pyramid/</link>
+      <link>https://carlosgustavoruiz.me/tags/pyramid/</link>
       <pubDate>Tue, 20 Aug 2013 08:18:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/pyramid/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/pyramid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sqlalchemy</title>
-      <link>http://carlosgruiz-dev.github.io/tags/sqlalchemy/</link>
+      <link>https://carlosgustavoruiz.me/tags/sqlalchemy/</link>
       <pubDate>Tue, 20 Aug 2013 08:18:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/sqlalchemy/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/sqlalchemy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>http://carlosgruiz-dev.github.io/tags/tutorial/</link>
+      <link>https://carlosgustavoruiz.me/tags/tutorial/</link>
       <pubDate>Tue, 20 Aug 2013 08:18:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/tutorial/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>http://carlosgruiz-dev.github.io/tags/migration/</link>
+      <link>https://carlosgustavoruiz.me/tags/migration/</link>
       <pubDate>Fri, 12 Jul 2013 01:47:24 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/migration/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data</title>
-      <link>http://carlosgruiz-dev.github.io/tags/data/</link>
+      <link>https://carlosgustavoruiz.me/tags/data/</link>
       <pubDate>Thu, 18 Apr 2013 21:34:44 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/data/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geomatics</title>
-      <link>http://carlosgruiz-dev.github.io/tags/geomatics/</link>
+      <link>https://carlosgustavoruiz.me/tags/geomatics/</link>
       <pubDate>Thu, 18 Apr 2013 21:34:44 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/geomatics/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/geomatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>qgis</title>
-      <link>http://carlosgruiz-dev.github.io/tags/qgis/</link>
+      <link>https://carlosgustavoruiz.me/tags/qgis/</link>
       <pubDate>Thu, 18 Apr 2013 21:34:44 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/qgis/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/qgis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>postgresql</title>
-      <link>http://carlosgruiz-dev.github.io/tags/postgresql/</link>
+      <link>https://carlosgustavoruiz.me/tags/postgresql/</link>
       <pubDate>Mon, 18 Feb 2013 12:39:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/postgresql/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mercurial</title>
-      <link>http://carlosgruiz-dev.github.io/tags/mercurial/</link>
+      <link>https://carlosgustavoruiz.me/tags/mercurial/</link>
       <pubDate>Mon, 04 Feb 2013 16:04:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/mercurial/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/mercurial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c&#43;&#43;</title>
-      <link>http://carlosgruiz-dev.github.io/tags/c&#43;&#43;/</link>
+      <link>https://carlosgustavoruiz.me/tags/c&#43;&#43;/</link>
       <pubDate>Fri, 25 Jan 2013 15:21:49 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/c&#43;&#43;/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>qt</title>
-      <link>http://carlosgruiz-dev.github.io/tags/qt/</link>
+      <link>https://carlosgustavoruiz.me/tags/qt/</link>
       <pubDate>Fri, 25 Jan 2013 15:21:49 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/qt/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/qt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pycon venezuela</title>
-      <link>http://carlosgruiz-dev.github.io/tags/pycon-venezuela/</link>
+      <link>https://carlosgustavoruiz.me/tags/pycon-venezuela/</link>
       <pubDate>Sun, 11 Nov 2012 13:32:23 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/pycon-venezuela/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/pycon-venezuela/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>http://carlosgruiz-dev.github.io/tags/github/</link>
+      <link>https://carlosgustavoruiz.me/tags/github/</link>
       <pubDate>Sun, 28 Oct 2012 04:24:34 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/github/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openve</title>
-      <link>http://carlosgruiz-dev.github.io/tags/openve/</link>
+      <link>https://carlosgustavoruiz.me/tags/openve/</link>
       <pubDate>Sun, 28 Oct 2012 04:24:34 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/openve/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/openve/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best prectices</title>
-      <link>http://carlosgruiz-dev.github.io/tags/best-prectices/</link>
+      <link>https://carlosgustavoruiz.me/tags/best-prectices/</link>
       <pubDate>Thu, 18 Oct 2012 13:46:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/best-prectices/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/best-prectices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openstreetmap</title>
-      <link>http://carlosgruiz-dev.github.io/tags/openstreetmap/</link>
+      <link>https://carlosgustavoruiz.me/tags/openstreetmap/</link>
       <pubDate>Sun, 14 Oct 2012 12:00:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/openstreetmap/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/openstreetmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gnu linux</title>
-      <link>http://carlosgruiz-dev.github.io/tags/gnu-linux/</link>
+      <link>https://carlosgustavoruiz.me/tags/gnu-linux/</link>
       <pubDate>Tue, 10 Apr 2012 22:42:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/gnu-linux/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/gnu-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>http://carlosgruiz-dev.github.io/tags/web/</link>
+      <link>https://carlosgustavoruiz.me/tags/web/</link>
       <pubDate>Tue, 03 Apr 2012 03:34:14 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/web/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>django</title>
-      <link>http://carlosgruiz-dev.github.io/tags/django/</link>
+      <link>https://carlosgustavoruiz.me/tags/django/</link>
       <pubDate>Mon, 19 Jul 2010 17:36:01 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/django/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>openlayers</title>
-      <link>http://carlosgruiz-dev.github.io/tags/openlayers/</link>
+      <link>https://carlosgustavoruiz.me/tags/openlayers/</link>
       <pubDate>Wed, 09 Jun 2010 23:49:35 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/openlayers/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/openlayers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>http://carlosgruiz-dev.github.io/tags/javascript/</link>
+      <link>https://carlosgustavoruiz.me/tags/javascript/</link>
       <pubDate>Mon, 03 Aug 2009 21:27:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/tags/javascript/</guid>
+      <guid>https://carlosgustavoruiz.me/tags/javascript/</guid>
       <description></description>
     </item>
     

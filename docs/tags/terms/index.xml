@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>terms on Carlos Gustavo Ruiz</title>
-    <link>http://carlosgruiz-dev.github.io/tags/terms/</link>
+    <link>https://carlosgustavoruiz.me/tags/terms/</link>
     <description>Recent content in terms on Carlos Gustavo Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2014 03:11:00 -0400</lastBuildDate><atom:link href="http://carlosgruiz-dev.github.io/tags/terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jan 2014 03:11:00 -0400</lastBuildDate><atom:link href="https://carlosgustavoruiz.me/tags/terms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Outrunning the Bear</title>
-      <link>http://carlosgruiz-dev.github.io/blog/outrunning-the-bear/</link>
+      <link>https://carlosgustavoruiz.me/blog/outrunning-the-bear/</link>
       <pubDate>Fri, 31 Jan 2014 03:11:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/blog/outrunning-the-bear/</guid>
+      <guid>https://carlosgustavoruiz.me/blog/outrunning-the-bear/</guid>
       <description>&lt;p&gt;Hace algún tiempo me dio por comentar sobre una expresión de esas que
 rondan con frecuencia el mundo geek. Bueno acá va otra, &lt;strong&gt;&amp;ldquo;Outrunning the bear&amp;rdquo;&lt;/strong&gt;
 (o dejando atrás al oso).&lt;/p&gt;</description>
@@ -20,10 +20,10 @@ rondan con frecuencia el mundo geek. Bueno acá va otra, &lt;strong&gt;&amp;ldqu
     
     <item>
       <title>Dogfooding</title>
-      <link>http://carlosgruiz-dev.github.io/blog/dogfooding/</link>
+      <link>https://carlosgustavoruiz.me/blog/dogfooding/</link>
       <pubDate>Thu, 18 Oct 2012 13:46:00 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/blog/dogfooding/</guid>
+      <guid>https://carlosgustavoruiz.me/blog/dogfooding/</guid>
       <description>&lt;p&gt;Leyendo sobre un driver para &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; y
 &lt;a href=&#34;http://www.tornadoweb.org/&#34;&gt;Tornado&lt;/a&gt;
 (&lt;a href=&#34;http://emptysquare.net/blog/eating-your-own-hamster-food/&#34;&gt;aquí&lt;/a&gt; el

@@ -8,14 +8,14 @@
 <meta name=description content="En fin, hoy limpiando la wiki que solía utilizar en mi web personal
 conseguí algunas curiosidades que valen la pena compartir.">
 <meta name=author content>
-<link rel=canonical href=http://carlosgruiz-dev.github.io/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/>
+<link rel=canonical href=https://carlosgustavoruiz.me/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/>
 <link crossorigin=anonymous href=/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css integrity="sha256-yIlj/i15RiAA/Q+xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5+kdJvBz5iKbt6B5PJI=" onload=hljs.initHighlightingOnLoad()></script>
-<link rel=icon href=http://carlosgruiz-dev.github.io/favicon.ico>
-<link rel=icon type=image/png sizes=16x16 href=http://carlosgruiz-dev.github.io/favicon-16x16.png>
-<link rel=icon type=image/png sizes=32x32 href=http://carlosgruiz-dev.github.io/favicon-32x32.png>
-<link rel=apple-touch-icon href=http://carlosgruiz-dev.github.io/apple-touch-icon.png>
-<link rel=mask-icon href=http://carlosgruiz-dev.github.io/safari-pinned-tab.svg>
+<link rel=icon href=https://carlosgustavoruiz.me/favicon.ico>
+<link rel=icon type=image/png sizes=16x16 href=https://carlosgustavoruiz.me/favicon-16x16.png>
+<link rel=icon type=image/png sizes=32x32 href=https://carlosgustavoruiz.me/favicon-32x32.png>
+<link rel=apple-touch-icon href=https://carlosgustavoruiz.me/apple-touch-icon.png>
+<link rel=mask-icon href=https://carlosgustavoruiz.me/safari-pinned-tab.svg>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
 <noscript>
@@ -25,22 +25,22 @@ conseguí algunas curiosidades que valen la pena compartir.">
 <meta property="og:description" content="En fin, hoy limpiando la wiki que solía utilizar en mi web personal
 conseguí algunas curiosidades que valen la pena compartir.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://carlosgruiz-dev.github.io/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"><meta property="article:section" content="blog">
+<meta property="og:url" content="https://carlosgustavoruiz.me/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"><meta property="article:section" content="blog">
 <meta property="article:published_time" content="2013-01-25T15:21:49-04:00">
 <meta property="article:modified_time" content="2015-03-07T14:31:00-04:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Tutorial &#34;Introducción a la programacion Qt&#34; y otros hallazgos en la azotea">
 <meta name=twitter:description content="En fin, hoy limpiando la wiki que solía utilizar en mi web personal
 conseguí algunas curiosidades que valen la pena compartir.">
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"http://carlosgruiz-dev.github.io/blog/"},{"@type":"ListItem","position":2,"name":"Tutorial \"Introducción a la programacion Qt\" y otros hallazgos en la azotea","item":"http://carlosgruiz-dev.github.io/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Tutorial \"Introducción a la programacion Qt\" y otros hallazgos en la azotea","name":"Tutorial \u0022Introducción a la programacion Qt\u0022 y otros hallazgos en la azotea","description":"En fin, hoy limpiando la wiki que solía utilizar en mi web personal conseguí algunas curiosidades que valen la pena compartir.\n","keywords":["tutorial","c++","mercurial","postgresql","python","qt","spanish"],"articleBody":"En fin, hoy limpiando la wiki que solía utilizar en mi web personal conseguí algunas curiosidades que valen la pena compartir.\nPara todos los que nos iniciamos con Qt en algún momento nos ha tocado comenzar por el tutorial “Getting Started Programming with Qt”. Sin embargo quién lo haya realizado también sabrá que el mismo está lleno de errores, partes incompletas y que normalmente cuando uno lo completa siente una sensación de alivio al ver que logró superar a quien redactó el tutorial. En fin, una de las cosas que hallé son los pasos resueltos, así que para quienes quieran usarlos pueden descargarlos de aquí.\nUnir repositorios Mercurial También conseguí la lista de pasos para unir repositorios mercurial:\n$ hg clone repo1 repo $ cd repo $ hg pull -f repo2 $ hg merge $ hg commit -m \"unión de repositorios\" Eliminar espacios en blanco de nombres de archivos Así mismo se encontraba esta lista de pasos para sustituir los espacios en blanco de los nombres de los archivos, desde el intérprete de Python:\n import os  files = os.listdir(\".\")  for i in files: ... os.rename(i,i.replace(\" \",\"_\")) # cambia los espacios por guión bajo ...  Mover una base de Datos PostgreSQL a un nuevo servidor Otro truco salido del sombrero de un mago es una línea de comandos para mover una base de datos PostgreSQL a un nuevo servidor.\n$ pg_dump -h [servidor1] -U [usuario1] [base_de_datos1] | psql -h [servidor2] -U [usuario2] [base_de_datos2] Espero a alguien le sean útiles estos trucos como me fueron a mi.\n","wordCount":"259","inLanguage":"en","datePublished":"2013-01-25T15:21:49-04:00","dateModified":"2015-03-07T14:31:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://carlosgruiz-dev.github.io/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"},"publisher":{"@type":"Organization","name":"Carlos Gustavo Ruiz","logo":{"@type":"ImageObject","url":"http://carlosgruiz-dev.github.io/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blog","item":"https://carlosgustavoruiz.me/blog/"},{"@type":"ListItem","position":2,"name":"Tutorial \"Introducción a la programacion Qt\" y otros hallazgos en la azotea","item":"https://carlosgustavoruiz.me/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"}]}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Tutorial \"Introducción a la programacion Qt\" y otros hallazgos en la azotea","name":"Tutorial \u0022Introducción a la programacion Qt\u0022 y otros hallazgos en la azotea","description":"En fin, hoy limpiando la wiki que solía utilizar en mi web personal conseguí algunas curiosidades que valen la pena compartir.\n","keywords":["tutorial","c++","mercurial","postgresql","python","qt","spanish"],"articleBody":"En fin, hoy limpiando la wiki que solía utilizar en mi web personal conseguí algunas curiosidades que valen la pena compartir.\nPara todos los que nos iniciamos con Qt en algún momento nos ha tocado comenzar por el tutorial “Getting Started Programming with Qt”. Sin embargo quién lo haya realizado también sabrá que el mismo está lleno de errores, partes incompletas y que normalmente cuando uno lo completa siente una sensación de alivio al ver que logró superar a quien redactó el tutorial. En fin, una de las cosas que hallé son los pasos resueltos, así que para quienes quieran usarlos pueden descargarlos de aquí.\nUnir repositorios Mercurial También conseguí la lista de pasos para unir repositorios mercurial:\n$ hg clone repo1 repo $ cd repo $ hg pull -f repo2 $ hg merge $ hg commit -m \"unión de repositorios\" Eliminar espacios en blanco de nombres de archivos Así mismo se encontraba esta lista de pasos para sustituir los espacios en blanco de los nombres de los archivos, desde el intérprete de Python:\n import os  files = os.listdir(\".\")  for i in files: ... os.rename(i,i.replace(\" \",\"_\")) # cambia los espacios por guión bajo ...  Mover una base de Datos PostgreSQL a un nuevo servidor Otro truco salido del sombrero de un mago es una línea de comandos para mover una base de datos PostgreSQL a un nuevo servidor.\n$ pg_dump -h [servidor1] -U [usuario1] [base_de_datos1] | psql -h [servidor2] -U [usuario2] [base_de_datos2] Espero a alguien le sean útiles estos trucos como me fueron a mi.\n","wordCount":"259","inLanguage":"en","datePublished":"2013-01-25T15:21:49-04:00","dateModified":"2015-03-07T14:31:00-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://carlosgustavoruiz.me/blog/tutorial-introduccion-a-la-programacion-qt-y-otros-hallazgos-en-la-azotea/"},"publisher":{"@type":"Organization","name":"Carlos Gustavo Ruiz","logo":{"@type":"ImageObject","url":"https://carlosgustavoruiz.me/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
 <header class=header>
 <nav class=nav>
 <div class=logo>
-<a href=http://carlosgruiz-dev.github.io/ accesskey=h title="Carlos Gustavo Ruiz (Alt + H)">Carlos Gustavo Ruiz</a>
+<a href=https://carlosgustavoruiz.me/ accesskey=h title="Carlos Gustavo Ruiz (Alt + H)">Carlos Gustavo Ruiz</a>
 <span class=logo-switches>
 <button id=theme-toggle accesskey=t title="(Alt + T)"><svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg><svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
 </button>
@@ -48,7 +48,7 @@ conseguí algunas curiosidades que valen la pena compartir.">
 </div>
 <ul id=menu>
 <li>
-<a href=http://carlosgruiz-dev.github.io/blog/ title=blog>
+<a href=https://carlosgustavoruiz.me/blog/ title=blog>
 <span>blog</span>
 </a>
 </li>
@@ -58,17 +58,17 @@ conseguí algunas curiosidades que valen la pena compartir.">
 </a>
 </li>
 <li>
-<a href=http://carlosgruiz-dev.github.io/talks/ title=talks>
+<a href=https://carlosgustavoruiz.me/talks/ title=talks>
 <span>talks</span>
 </a>
 </li>
 <li>
-<a href=http://carlosgruiz-dev.github.io/bookmarks/ title=bookmarks>
+<a href=https://carlosgustavoruiz.me/bookmarks/ title=bookmarks>
 <span>bookmarks</span>
 </a>
 </li>
 <li>
-<a href=http://carlosgruiz-dev.github.io/now/ title=now>
+<a href=https://carlosgustavoruiz.me/now/ title=now>
 <span>now</span>
 </a>
 </li>
@@ -121,19 +121,19 @@ mover una base de datos PostgreSQL a un nuevo servidor.</p>
 </div>
 <footer class=post-footer>
 <ul class=post-tags>
-<li><a href=http://carlosgruiz-dev.github.io/tags/tutorial/>tutorial</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/c++/>c++</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/mercurial/>mercurial</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/postgresql/>postgresql</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/python/>python</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/qt/>qt</a></li>
-<li><a href=http://carlosgruiz-dev.github.io/tags/spanish/>spanish</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/tutorial/>tutorial</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/c++/>c++</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/mercurial/>mercurial</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/postgresql/>postgresql</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/python/>python</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/qt/>qt</a></li>
+<li><a href=https://carlosgustavoruiz.me/tags/spanish/>spanish</a></li>
 </ul>
 </footer>
 </article>
 </main>
 <footer class=footer>
-<span>&copy; 2022 <a href=http://carlosgruiz-dev.github.io/>Carlos Gustavo Ruiz</a></span>
+<span>&copy; 2022 <a href=https://carlosgustavoruiz.me/>Carlos Gustavo Ruiz</a></span>
 <span>
 Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &

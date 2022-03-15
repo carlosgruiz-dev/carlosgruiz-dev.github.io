@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>vim on Carlos Gustavo Ruiz</title>
-    <link>http://carlosgruiz-dev.github.io/tags/vim/</link>
+    <link>https://carlosgustavoruiz.me/tags/vim/</link>
     <description>Recent content in vim on Carlos Gustavo Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2016 16:34:32 -0500</lastBuildDate><atom:link href="http://carlosgruiz-dev.github.io/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2016 16:34:32 -0500</lastBuildDate><atom:link href="https://carlosgustavoruiz.me/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vim &#43; Python Mode</title>
-      <link>http://carlosgruiz-dev.github.io/blog/vim-python-mode/</link>
+      <link>https://carlosgustavoruiz.me/blog/vim-python-mode/</link>
       <pubDate>Fri, 22 Apr 2016 16:34:32 -0500</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/blog/vim-python-mode/</guid>
+      <guid>https://carlosgustavoruiz.me/blog/vim-python-mode/</guid>
       <description>Presentación que realicé en el Día Python 2016 (1) en la Universidad Central de Venezuela. Comentando un poco de las herramientas que uso para mi trabajo.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>openlayers on Carlos Gustavo Ruiz</title>
-    <link>http://carlosgruiz-dev.github.io/tags/openlayers/</link>
+    <link>https://carlosgustavoruiz.me/tags/openlayers/</link>
     <description>Recent content in openlayers on Carlos Gustavo Ruiz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2010 23:49:35 -0400</lastBuildDate><atom:link href="http://carlosgruiz-dev.github.io/tags/openlayers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2010 23:49:35 -0400</lastBuildDate><atom:link href="https://carlosgustavoruiz.me/tags/openlayers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduccion a Openlayers</title>
-      <link>http://carlosgruiz-dev.github.io/blog/introduccion-a-openlayers/</link>
+      <link>https://carlosgustavoruiz.me/blog/introduccion-a-openlayers/</link>
       <pubDate>Wed, 09 Jun 2010 23:49:35 -0400</pubDate>
       
-      <guid>http://carlosgruiz-dev.github.io/blog/introduccion-a-openlayers/</guid>
+      <guid>https://carlosgustavoruiz.me/blog/introduccion-a-openlayers/</guid>
       <description>&lt;p&gt;Una de las cosas con las que he trabajado últimamente es con
 &lt;a href=&#34;http://www.openlayers.org/&#34;&gt;OpenLayers&lt;/a&gt;. Este es una librería de
 JavaScript muy interesante para colocar mapas en una página web. Así que
