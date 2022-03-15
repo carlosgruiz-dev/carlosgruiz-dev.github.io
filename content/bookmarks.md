@@ -15,6 +15,7 @@ draft: false
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting by Mendel Cooper.
 * [Advent of Code](https://adventofcode.com/) - is a series of small programming puzzles for a variety of skill levels.
 * [Algo Deck](https://github.com/teivah/algodeck) - An Open-Source Collection of +200 Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview
+* [Ammonite](http://ammonite.io/) - Ammonite lets you use the Scala language for scripting purposes: in the REPL or as scripts.
 * [Android Studio](https://developer.android.com/studio/index.html) - The Official IDE for Android.
 * [AngelList](https://angel.co/) - Get a job at a startup.
 * [Angular CLI](https://cli.angular.io/) - A command line interface for Angular.
@@ -56,6 +57,7 @@ draft: false
 * [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Awesomplete](http://leaverou.github.io/awesomplete/) - Ultra lightweight, customizable, simple autocomplete widget with zero dependencies.
 * [Awk](https://www.grymoire.com/Unix/Awk.html) - Part of the Unix tutorials.
+* [Azkaban](https://azkaban.github.io/) - Open-source Workflow Manager.
 * [akka](https://akka.io/) - a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
 * [almond](https://almond.sh/) - A Scala kernel for Jupyter.
 * [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
@@ -74,6 +76,7 @@ draft: false
 * [Bash Guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) - https://www.gnu.org/software/bash/manual/bash.html
 * [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users.
+* [Bcrypt Generator](https://bcrypt-generator.com/) - Online Bcrypt Hash Generator & Checker.
 * [Beaker](https://beakerbrowser.com/) - Browse the peer-to-peer Web.
 * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees.
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - a list of strings which have a high probability of causing issues when used as user-input data.
@@ -262,10 +265,11 @@ draft: false
 
 ### H
 
-* [HTTPie](https://httpie.io/) - HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era.
 * [HNPWA](https://hnpwa.com/) -Hacker News readers as Progressive Web Apps
 * [HOCON (Human-Optimized Config Object Notation)](https://github.com/lightbend/config/blob/master/HOCON.md)
 * [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) - Slide Shows in HTML and XHTML
+* [HTTP Status Codes](https://httpstatuses.com/) - an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [HTTPie](https://httpie.io/) - HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era.
 * [Hackage](http://hackage.haskell.org/) - Hackage is the Haskell community's central package archive of open source software.
 * [Hakyll](https://jaspervdj.be/hakyll/) - Static sites are fast, secure, easy to deploy, and manageable using version control.
 * [Hammock](https://github.com/pepegar/hammock) - Purely functional HTTP client
@@ -389,6 +393,7 @@ draft: false
 * [Material UI Colors](http://materialuicolors.co/) - Color Palette for Material Design.
 * [Microsoft Bot Framework Composer](https://github.com/Microsoft/BotFramework-Composer) - an open-source, visual authoring canvas for developers and multi-disciplinary teams to design and build conversational experiences with Language Understanding and QnA Maker, and a sophisticated composition of bot replies (Language Generation).
 * [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure) - A short guide on features of Python 3 for data scientists.
+* [Mito](https://www.trymito.io/) - is a spreadsheet that helps you complete your Python analyses 10x faster. You edit the Mitosheet, and it generates Python code for you.
 * [MkDocs](https://www.mkdocs.org/) - a fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 * [Moby Project](https://mobyproject.org/) - an open framework created by Docker to assemble specialized container systems without reinventing the wheel.
 * [Modernizr](https://modernizr.com/) - Modernizr tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
@@ -458,6 +463,7 @@ draft: false
 * [Plus Codes](https://plus.codes/) - A plus code is like a street address for people or places that don't have one.
 * [Podman](https://podman.io/) - A daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
 * [Popper.js](https://popper.js.org/) - A kickass library used to manage poppers in web applications.
+* [Portainer](https://github.com/portainer/portainer) - Portainer Community Edition is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, Kubernetes and ACI environments. It is designed to be as simple to deploy as it is to use.
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - "that book is dead sexy"
 * [Prefect](https://www.prefect.io/) - new standard in dataflow automation , trusted to build, run, and monitor millions of data workflows and pipelines.
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
@@ -492,6 +498,7 @@ draft: false
 * [piku](https://piku.github.io/) - The tiniest PaaS you've ever seen, Piku allows you to do git push deployments to your own servers [github](https://github.com/piku/piku).
 * [pkg](https://github.com/zeit/pkg) - This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+* [pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using python type annotations.
 * [pyodbc](https://github.com/mkleehammer/pyodbc) - pyodbc is an open source Python module that makes accessing ODBC databases simple.
 * [python-telegram-bot](https://python-telegram-bot.org/) - We have made you a wrapper you can't refuse.
 * [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
@@ -524,6 +531,7 @@ draft: false
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader.
 * [Responsimulator](http://www.responsimulator.com/) - See how your page looks on the iPhone.
 * [Rest for Haskell](http://silkapp.github.io/rest/) - Write REST APIs in Haskell, generate documentation and client libraries.
+* [Retool](https://retool.com/) - Retool is a fast and easy way to build and maintain internal tools.
 * [Reverse Engineering resources](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources.
 * [Rufus](http://rufus.ie) - Create bootable USB drives the easy way.
 * [Rundeck](https://www.rundeck.com/ ) - enable anyone to safely execute self-service operations tasks that previously only subject matter experts could perform.
@@ -570,6 +578,7 @@ draft: false
 * [Shields IO](http://shields.io/) - Quality metadata badges for open source projects.
 * [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards.
 * [Side Project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects.
+* [Simple Haskell Initiative](https://www.simplehaskell.org/) - Industrial Haskell users are realizing that the key to delivering software on time and under budget is to keep it simple.
 * [Simple Maps](https://simplemaps.com/) - Interactive HTML5 Maps
 * [Simple Python Version Manager: pyenv](https://github.com/pyenv/pyenv) - pyenv lets you easily switch between multiple versions of Python.
 * [Singer - Simple, Composable, Open Source ETL](https://www.singer.io/) - The open-source standard for writing scripts that move data.
