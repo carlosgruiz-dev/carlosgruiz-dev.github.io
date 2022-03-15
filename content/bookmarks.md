@@ -57,6 +57,7 @@ draft: false
 * [Awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [Awesomplete](http://leaverou.github.io/awesomplete/) - Ultra lightweight, customizable, simple autocomplete widget with zero dependencies.
 * [Awk](https://www.grymoire.com/Unix/Awk.html) - Part of the Unix tutorials.
+* [Azkaban](https://azkaban.github.io/) - Open-source Workflow Manager.
 * [akka](https://akka.io/) - a toolkit for building highly concurrent, distributed, and resilient message-driven applications for Java and Scala
 * [almond](https://almond.sh/) - A Scala kernel for Jupyter.
 * [asciinema](https://asciinema.org/) - Record and share your terminal sessions, the right way.
@@ -75,6 +76,7 @@ draft: false
 * [Bash Guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) - https://www.gnu.org/software/bash/manual/bash.html
 * [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users.
+* [Bcrypt Generator](https://bcrypt-generator.com/) - Online Bcrypt Hash Generator & Checker.
 * [Beaker](https://beakerbrowser.com/) - Browse the peer-to-peer Web.
 * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees.
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - a list of strings which have a high probability of causing issues when used as user-input data.
@@ -263,10 +265,11 @@ draft: false
 
 ### H
 
-* [HTTPie](https://httpie.io/) - HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era.
 * [HNPWA](https://hnpwa.com/) -Hacker News readers as Progressive Web Apps
 * [HOCON (Human-Optimized Config Object Notation)](https://github.com/lightbend/config/blob/master/HOCON.md)
 * [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) - Slide Shows in HTML and XHTML
+* [HTTP Status Codes](https://httpstatuses.com/) - an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [HTTPie](https://httpie.io/) - HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era.
 * [Hackage](http://hackage.haskell.org/) - Hackage is the Haskell community's central package archive of open source software.
 * [Hakyll](https://jaspervdj.be/hakyll/) - Static sites are fast, secure, easy to deploy, and manageable using version control.
 * [Hammock](https://github.com/pepegar/hammock) - Purely functional HTTP client
@@ -460,6 +463,7 @@ draft: false
 * [Plus Codes](https://plus.codes/) - A plus code is like a street address for people or places that don't have one.
 * [Podman](https://podman.io/) - A daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
 * [Popper.js](https://popper.js.org/) - A kickass library used to manage poppers in web applications.
+* [Portainer](https://github.com/portainer/portainer) - Portainer Community Edition is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, Kubernetes and ACI environments. It is designed to be as simple to deploy as it is to use.
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - "that book is dead sexy"
 * [Prefect](https://www.prefect.io/) - new standard in dataflow automation , trusted to build, run, and monitor millions of data workflows and pipelines.
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
@@ -494,6 +498,7 @@ draft: false
 * [piku](https://piku.github.io/) - The tiniest PaaS you've ever seen, Piku allows you to do git push deployments to your own servers [github](https://github.com/piku/piku).
 * [pkg](https://github.com/zeit/pkg) - This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+* [pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using python type annotations.
 * [pyodbc](https://github.com/mkleehammer/pyodbc) - pyodbc is an open source Python module that makes accessing ODBC databases simple.
 * [python-telegram-bot](https://python-telegram-bot.org/) - We have made you a wrapper you can't refuse.
 * [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
