@@ -203,6 +203,7 @@ draft: false
 * [Feather Icons](https://feathericons.com/) - Simply beautiful open source icons.
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 * [Finagle](http://twitter.github.io/finagle/) - Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers. [GitHub](https://github.com/twitter/finagle)
+* [Fira Code](https://github.com/tonsky/FiraCode) - free monospaced font with programming ligatures.
 * [Flat Color Palette](http://flatui.com/flat-ui-color-palette/) - Here is a great standard flat ui color palette courtesy of Designmodo.
 * [Flat UI Colors](http://flatuicolors.com/) - Color Palette from Flat UI Theme.
 * [Flatbuffers](https://google.github.io/flatbuffers/) - an efficient cross platform serialization library for C++, C#, C, Go, Java, Kotlin, JavaScript, Lobster, Lua, TypeScript, PHP, Python, Rust and Swift.
@@ -338,6 +339,7 @@ draft: false
 * [JavaScript Event KeyCodes](https://github.com/wesbos/keycodes) - A simple webpage that responds to the key pressed and returns the JavaScript 'on-key pressed' keycode.
 * [JavaScript Examples](http://www.quackit.com/javascript/examples/) - This page contains examples of JavaScript tricks that you can use for your own website.
 * [Jawn](https://github.com/typelevel/jawn) - Jawn is for parsing jay-sawn (JSON).
+* [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - the free and open-source typeface for developers.
 * [JitPack](https://jitpack.io/) - Easy to use package repository for Git. Publish your JVM and Android libraries.
 * [Jupyter on Github](https://github.com/jupyter/jupyter) - Repo for Jupyter.
 * [Jupyter](https://jupyter.org/) - The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
@@ -652,6 +654,7 @@ draft: false
 * [TensorFlow Course](https://github.com/osforscience/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow
 * [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images.
 * [Termonad](https://github.com/cdepillabout/termonad) - a terminal emulator configurable in Haskell.
+* [Testcontainers](https://www.testcontainers.org/) - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 * [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - All algorithms implemented in Java (for education)
 * [The Algorithms - Javascript](https://github.com/TheAlgorithms/Javascript) - All algorithms implemented in Javascript (for educational purposes only)
 * [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - All algorithms implemented in Python (for education)
@@ -695,6 +698,7 @@ draft: false
 * [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Microservice for rendering receipts, invoices, or any content. Packaged to an easy API.
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - a guide for the transition between ECMAScript 5 and 6.
 * [Undertow](http://undertow.io/) - Undertow is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO.
+* [Unfiltered](https://unfiltered.ws) - Unfiltered is a toolkit for servicing HTTP requests in Scala. [GH](https://github.com/unfiltered/unfiltered)
 * [Unsplash](https://unsplash.com/) - Beautiful, free photos.
 * [Uppy](https://uppy.io/) - The next open source file uploader for web browsers
 * [Uptime Robot](https://uptimerobot.com/) - It monitors your websites every 5 minutes and alerts you if your sites are down.
