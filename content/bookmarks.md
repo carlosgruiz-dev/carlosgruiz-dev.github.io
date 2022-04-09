@@ -1,6 +1,6 @@
 ---
 title: "Bookmarks"
-date: 2022-03-04T05:00:00Z
+date: 2022-04-09T05:00:00Z
 draft: false
 ---
 
@@ -30,6 +30,7 @@ draft: false
 * [Apache Camel](http://camel.apache.org/) - is a powerful open source integration framework based on known Enterprise Integration Patterns with powerful bean integration.
 * [Apache Cassandra](https://cassandra.apache.org/) - a free and open-source, distributed, wide column store, NoSQL database management system designed to handle large amounts of data across many commodity servers.
 * [Apache Cordova](https://cordova.apache.org) - Mobile apps with HTML, CSS & JS, Target multiple platforms with one code base, free and open source.
+* [Apache Drill](https://drill.apache.org/) - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 * [Apache Guacamole](http://guacamole.apache.org/) - a clientless remote desktop gateway.
 * [Apache NiFi](https://nifi.apache.org/) - An easy to use, powerful, and reliable system to process and distribute data.
 * [Apache Spark](https://spark.apache.org/) - is a unified analytics engine for large-scale data processing.
@@ -80,6 +81,7 @@ draft: false
 * [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users.
 * [Bcrypt Generator](https://bcrypt-generator.com/) - Online Bcrypt Hash Generator & Checker.
 * [Beaker](https://beakerbrowser.com/) - Browse the peer-to-peer Web.
+* [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/) - a Python library for pulling data out of HTML and XML files.
 * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees.
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - a list of strings which have a high probability of causing issues when used as user-input data.
 * [Bl.ocks](https://bl.ocks.org/) - Bl.ocks (pronounced “Blocks”) is a simple viewer for sharing code examples hosted on GitHub Gist.
@@ -94,8 +96,8 @@ draft: false
 * [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 * [better-files](https://github.com/pathikrit/better-files) - Simple, safe and intuitive Scala I/O
 * [bonobo](https://www.bonobo-project.org/) - a data processing toolkit for python 3.5+.
-* [borb](https://github.com/jorisschellekens/borb) - a library for creating and manipulating PDF files in python.
 * [borb - examples](https://github.com/jorisschellekens/borb-examples) - This book will take you on an exploratory journey through the PDF format, and the `borb` Python library.
+* [borb](https://github.com/jorisschellekens/borb) - a library for creating and manipulating PDF files in python.
 
 ### C
 
@@ -104,6 +106,7 @@ draft: false
 * [CSS3 Generator](http://css3generator.com/) - Generate your CSS3 effect.
 * [Can I use...](https://caniuse.com/) - Support tables for HTML5, CSS3, etc
 * [Can You RUN it](https://systemrequirementslab.com/cyri) - System Requirements Lab analyzes your computer in just seconds, and it's FREE.
+* [Cask](https://com-lihaoyi.github.io/cask/) - a Scala HTTP micro-framework.
 * [Category Theory for Programmers (ebook)](https://github.com/onlurking/category-theory-for-programmers) - e-book version of Bartosz Milewski's Category Theory for Programmers
 * [Category Theory for Programmers (pdf)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 * [Cats MTL](https://typelevel.org/cats-mtl/) - Monad Transformers made easy
@@ -278,6 +281,7 @@ draft: false
 * [HOCON (Human-Optimized Config Object Notation)](https://github.com/lightbend/config/blob/master/HOCON.md)
 * [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) - Slide Shows in HTML and XHTML
 * [HTTP Status Codes](https://httpstatuses.com/) - an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [HTTPX](https://www.python-httpx.org/) - a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.1 and HTTP/2.
 * [HTTPie](https://httpie.io/) - HTTPie—aitch-tee-tee-pie—is a user-friendly command-line HTTP client for the API era.
 * [Hackage](http://hackage.haskell.org/) - Hackage is the Haskell community's central package archive of open source software.
 * [Hakyll](https://jaspervdj.be/hakyll/) - Static sites are fast, secure, easy to deploy, and manageable using version control.
@@ -513,6 +517,7 @@ draft: false
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 * [pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using python type annotations.
 * [pyodbc](https://github.com/mkleehammer/pyodbc) - pyodbc is an open source Python module that makes accessing ODBC databases simple.
+* [python-code-disasters](https://github.com/sobolevn/python-code-disasters) - Sometimes this code is so bad, that it is worth showing to the outer world.
 * [python-telegram-bot](https://python-telegram-bot.org/) - We have made you a wrapper you can't refuse.
 * [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 
@@ -645,6 +650,7 @@ draft: false
 
 ### T
 
+* [TIME.IS](https://time.is/) - exact time for any time zone
 * [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - GFM Markdown WYSIWYG Editor - Productive and Extensible
 * [TPB Clean](https://tpbclean.pro/) - TPB with no adult content.
 * [Tabler](https://tabler.io/) - Admin panel made simple. For Free!
@@ -751,10 +757,12 @@ draft: false
 
 ### Z
 
-* [Zappa - Serverless Python](https://github.com/zappa/Zappa) - Easy to build and deploy server-less, event-driven Python applications (including, but not limited to, WSGI web apps) on AWS Lambda + API Gateway.
-* [Zoom Escaper](https://zoomescaper.com/) - a tool to help you escape Zoom meetings and other videoconferencing scenarios. It allows you to self-sabotage your audio stream, making your presence unbearable to others.
 * [ZIO Keeper](https://zio.github.io/zio-keeper/) - Purely-functional, type-safe library for building distributed systems
 * [ZIO Wrapper for Akka Cluster](https://github.com/zio/zio-akka-cluster) - It exposes a purely functional API allowing you to leverage the distributed features of Akka without the need to use the actor model.
+* [ZIO](https://zio.dev/) - Type-safe, composable asynchronous and concurrent programming for Scala.
+* [Zappa - Serverless Python](https://github.com/zappa/Zappa) - Easy to build and deploy server-less, event-driven Python applications (including, but not limited to, WSGI web apps) on AWS Lambda + API Gateway.
+* [Zionomicon](https://www.zionomicon.com/) - Master the dark art of creating scalable, type-safe, concurrent apps with ZIO.
+* [Zoom Escaper](https://zoomescaper.com/) - a tool to help you escape Zoom meetings and other videoconferencing scenarios. It allows you to self-sabotage your audio stream, making your presence unbearable to others.
 * [Zstandard](http://facebook.github.io/zstd/) - a real-time compression algorithm, providing high compression ratios. It offers a very wide range of compression / speed trade-off, while being backed by a very fast decoder.
 * [zeit Now](https://zeit.co/now) - deploy JavaScript (Node.js) or Docker powered websites.
 * [zuck.js](https://ramon.codes/projects/zuck.js/) - A javascript library that lets you add stories EVERYWHERE.
