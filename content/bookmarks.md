@@ -128,7 +128,7 @@ draft: false
 * [Compiler Explorer - D](https://d.godbolt.org/) - Compiler Explorer - D.  Watch your generated code in assembler.
 * [Compiler Explorer - Go](https://go.godbolt.org/) - Compiler Explorer - Go.  Watch your generated code in assembler.
 * [Compiler Explorer - Rust](https://rust.godbolt.org/) - Compiler Explorer - Rust. Watch your generated code in assembler.
-* [Connexion](https://connexion.readthedocs.io/) - a framework on top of Flask that automagically handles HTTP requests defined using OpenAPI (formerly known as Swagger), supporting both v2.0 and v3.0 of the specification.
+* [Connexion](https://connexion.readthedocs.io/) - a framework on top of Flask that automagically handles HTTP requests defined using OpenAPI (formerly known as Swagger), supporting both v2.0 and v3.0 of the specification. [GitHub](https://github.com/spec-first/connexion)
 * [Coursera](https://www.coursera.org/) - Online Courses & Credentials by Top Educators.
 * [Coursier](https://get-coursier.io/) - Pure Scala Artifact Fetching.
 * [Crear Logo Gratis Online](https://www.crearlogogratisonline.com/) - ¡Descárgate hoy tu diseño de logo!
@@ -516,6 +516,7 @@ draft: false
 * [pkg](https://github.com/zeit/pkg) - This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 * [pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using python type annotations.
+* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 * [pyodbc](https://github.com/mkleehammer/pyodbc) - pyodbc is an open source Python module that makes accessing ODBC databases simple.
 * [python-code-disasters](https://github.com/sobolevn/python-code-disasters) - Sometimes this code is so bad, that it is worth showing to the outer world.
 * [python-telegram-bot](https://python-telegram-bot.org/) - We have made you a wrapper you can't refuse.
