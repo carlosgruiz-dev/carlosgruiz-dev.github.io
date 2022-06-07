@@ -207,6 +207,7 @@ draft: false
 * [Feather Icons](https://feathericons.com/) - Simply beautiful open source icons.
 * [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 * [Finagle](http://twitter.github.io/finagle/) - Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers. [GitHub](https://github.com/twitter/finagle)
+* [Fiona](https://fiona.readthedocs.io/en/latest/) - Fiona reads and writes geographic data files. [github](https://github.com/Toblerity/Fiona)
 * [Fira Code](https://github.com/tonsky/FiraCode) - free monospaced font with programming ligatures.
 * [Flat Color Palette](http://flatui.com/flat-ui-color-palette/) - Here is a great standard flat ui color palette courtesy of Designmodo.
 * [Flat UI Colors](http://flatuicolors.com/) - Color Palette from Flat UI Theme.
@@ -245,6 +246,7 @@ draft: false
 * [Gentoo Linux](https://gentoo.org/) - a highly flexible, source-based Linux distribution.
 * [GeoGig](http://geogig.org/) - an open source tool that draws inspiration from Git, but adapts its core concepts to handle distributed versioning of geospatial data.
 * [GeoJSON](http://geojson.org/) - GeoJSON is a format for encoding a variety of geographic data structures.
+* [GeoPandas](https://geopandas.org/) - an open source project to make working with geospatial data in python easier.
 * [Git.io](https://github.com/jgorset/git.io) - Command-line client for GitHub's URL shortener.
 * [GitHub CLI](https://github.com/cli/cli) - GitHub’s official command line tool
 * [GitHub Flavored Markdown](https://github.github.com/gfm/) - often shortened as GFM, is the dialect of Markdown that is currently supported for user content on GitHub.com and GitHub Enterprise.
@@ -367,6 +369,7 @@ draft: false
 * [Kotlin Programming Language](https://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
 * [Kubeflow](https://www.kubeflow.org/) - The Machine Learning Toolkit for Kubernetes.
 * [Kubernates Tutorial](https://www.youtube.com/playlist?list=PLot-YkcC7wZ9xwMzkzR_EkOrPahSofe5Q) - Learn Kubernetes from a DevOps guru (Kubernetes + Docker).
+* [keyhole Markup Language](https://developers.google.com/kml) - KML is a file format used to display geographic data.
 * [kickstart](https://github.com/Keats/kickstart) - A scaffolding tool to get new projects up and running quickly. (Rust)
 * [kind](https://kind.sigs.k8s.io/) - Kubernetes IN Docker (local clusters for testing Kubernates) [github](https://github.com/kubernetes-sigs/kind)
 * [klipse](https://github.com/viebel/klipse) - A simple client-side code evaluator pluggable on any web page.
@@ -708,6 +711,7 @@ draft: false
 ### U
 
 * [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF rendering done right. Microservice for rendering receipts, invoices, or any content. Packaged to an easy API.
+* [UltraJSON](https://github.com/ultrajson/ultrajson) - UltraJSON is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - a guide for the transition between ECMAScript 5 and 6.
 * [Undertow](http://undertow.io/) - Undertow is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO.
 * [Unfiltered](https://unfiltered.ws) - Unfiltered is a toolkit for servicing HTTP requests in Scala. [GH](https://github.com/unfiltered/unfiltered)
