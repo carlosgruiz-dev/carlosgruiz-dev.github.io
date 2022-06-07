@@ -77,7 +77,7 @@ draft: false
 * [Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf) - This is an unofficial PDF version of "Category Theory for Programmers" by Bartosz Milewski, converted from his blogpost series.
 * [Base64 Decode and Encode online](https://www.base64decode.org/) - super simple online form to decode or encode your data.
 * [Bash Guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
-* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) - https://www.gnu.org/software/bash/manual/bash.html
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html) - This text is a brief description of the features that are present in the Bash shell.
 * [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users.
 * [Bcrypt Generator](https://bcrypt-generator.com/) - Online Bcrypt Hash Generator & Checker.
 * [Beaker](https://beakerbrowser.com/) - Browse the peer-to-peer Web.
@@ -85,6 +85,7 @@ draft: false
 * [Beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees.
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - a list of strings which have a high probability of causing issues when used as user-input data.
 * [Bl.ocks](https://bl.ocks.org/) - Bl.ocks (pronounced “Blocks”) is a simple viewer for sharing code examples hosted on GitHub Gist.
+* [Black](https://black.readthedocs.io/en/stable/) - The Uncompromising Code Formatter (Python).
 * [Blocky](https://developers.google.com/blockly/) - A library for building visual programming editors.
 * [Boot](http://boot-clj.com/) - Build tooling for Clojure.
 * [Bootstrap World](http://www.bootstrapworld.org) - Computational modeling in Algebra, Physics & Data Science, for all students.
@@ -331,10 +332,12 @@ draft: false
 
 ### J
 
+* [jsonschema](https://python-jsonschema.readthedocs.io/) - `jsonschema` is an implementation of the [JSON Schema](https://json-schema.org/) specification for Python. [github](https://github.com/python-jsonschema/jsonschema).
 * [JSFiddle](https://jsfiddle.net/) - JavaScript code playground.
 * [JSON API](https://jsonapi.org/) - A specification for building APIs in JSON.
 * [JSON Feed](https://jsonfeed.org/) - a format similar to RSS and Atom but in JSON.
 * [JSON Lines](http://jsonlines.org/) - This page describes the JSON Lines text format, also called newline-delimited JSON.
+* [JSON Schema](https://json-schema.org/) - JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
 * [JSON to YAML](https://www.json2yaml.com/) - Convert JSON to YAML online.
 * [JSON](http://json.org/) - JSON (JavaScript Object Notation) is a lightweight data-interchange format.
 * [JScrewIt](http://jscrew.it/) - JScrewIt converts plain JavaScript into JSFuck code, which consists of only six different characters: `! ( ) + [ ]`.
@@ -514,6 +517,7 @@ draft: false
 * [pikepdf](https://pikepdf.readthedocs.io/) - is a Python library allowing creation, manipulation and repair of PDFs. It provides a Pythonic wrapper around the C++ PDF content transformation library, QPDF.
 * [piku](https://piku.github.io/) - The tiniest PaaS you've ever seen, Piku allows you to do git push deployments to your own servers [github](https://github.com/piku/piku).
 * [pkg](https://github.com/zeit/pkg) - This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.
+* [pre-commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
 * [pure bash bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 * [pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management using python type annotations.
 * [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -594,6 +598,7 @@ draft: false
 * [Sequelize](http://sequelizejs.com/) - Sequelize is a promise-based ORM for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite and MSSQL and features solid transaction support, relations, read replication and more.
 * [Servant](http://haskell-servant.readthedocs.io) - a set of packages for declaring web APIs at the type-level and then using those API specifications.
 * [ServiceWorker Cookbook](https://serviceworke.rs/) - is a collection of working, practical examples of using service workers in modern web apps.
+* [Shapely](https://shapely.readthedocs.io/en/stable/) - Manipulation and analysis of geometric objects. [github](https://github.com/shapely/shapely)
 * [Shields IO](http://shields.io/) - Quality metadata badges for open source projects.
 * [Shiny](https://shiny.rstudio.com/) - an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in R Markdown documents or build dashboards.
 * [Side Project Marketing](https://www.sideprojectchecklist.com/) - A checklist of tactics for marketing your side projects.
