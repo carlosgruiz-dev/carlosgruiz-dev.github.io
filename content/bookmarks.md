@@ -25,6 +25,7 @@ draft: false
 * [Anki](https://apps.ankiweb.net/) - Friendly, intelligent flash cards.
 * [Apache Airflow](http://airflow.apache.org) - a platform created by the community to programmatically author, schedule and monitor workflows.
 * [Apache Arrow](http://arrow.apache.org/) - A cross-language development platform for in-memory data.
+* [Apache Atlas](https://atlas.apache.org) - provides open metadata management and governance capabilities for organizations to build a catalog of their data assets, classify and govern these assets.
 * [Apache Avro](https://avro.apache.org/) - a data serialization system.
 * [Apache CXF](http://cxf.apache.org/) - Apache CXF™ is an open source services framework.
 * [Apache Camel](http://camel.apache.org/) - is a powerful open source integration framework based on known Enterprise Integration Patterns with powerful bean integration.
@@ -125,6 +126,7 @@ draft: false
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [Colormind](http://colormind.io/) - AI powered color pallete generator.
 * [Commercial Users of Functional Programming](http://cufp.org) - annual workshop serving the community of programmers employing functional programming languages and techniques in their practice.
+* [CommonMark](https://commonmark.org/) - A strongly defined, highly compatible specification of Markdown.
 * [Compiler Explorer - C++](https://gcc.godbolt.org/) - Compiler Explorer - C++. Watch your generated code in assembler.
 * [Compiler Explorer - D](https://d.godbolt.org/) - Compiler Explorer - D.  Watch your generated code in assembler.
 * [Compiler Explorer - Go](https://go.godbolt.org/) - Compiler Explorer - Go.  Watch your generated code in assembler.
@@ -459,6 +461,7 @@ draft: false
 * [Open Container Initiative](https://opencontainers.org/) - an open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
 * [Open Location Code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist.
 * [OpenAPI Initiative](https://www.openapis.org/) - initiative for standardizing how REST APIs are described.
+* [OpenLineage](https://openlineage.io/) - An open framework for data lineage collection and analysis.
 * [OpenShift](https://www.openshift.com/) - an open source container application platform based on the Kubernetes container orchestrator for enterprise application development and deployment.
 * [OpenWeather](https://openweathermap.org/) - a team of IT experts and data scientists that has been practising deep weather data science since 2014.
 * [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
