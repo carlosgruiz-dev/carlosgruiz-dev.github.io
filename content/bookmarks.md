@@ -281,7 +281,7 @@ draft: false
 * [glot.io](https://glot.io/) - an open source pastebin with runnable snippets and API.
 
 ### H
-
+ 
 * [HNPWA](https://hnpwa.com/) -Hacker News readers as Progressive Web Apps
 * [HOCON (Human-Optimized Config Object Notation)](https://github.com/lightbend/config/blob/master/HOCON.md)
 * [HTML Slidy](https://www.w3.org/Talks/Tools/Slidy2/) - Slide Shows in HTML and XHTML
@@ -292,6 +292,7 @@ draft: false
 * [Hakyll](https://jaspervdj.be/hakyll/) - Static sites are fast, secure, easy to deploy, and manageable using version control.
 * [Hammock](https://github.com/pepegar/hammock) - Purely functional HTTP client
 * [Hands-on Scala Programming](https://www.handsonscala.com/) -  book is designed to quickly teach an existing programmer everything needed to go from "hello world" to building production applications like interactive websites, parallel web crawlers, and distributed systems in Scala. [gh](https://github.com/handsonscala/handsonscala).
+* [Hands-on Scala.js](https://www.lihaoyi.com/hands-on-scala-js/) - Writing client-side web applications in Scala (eBook)
 * [Hashbase](https://hashbase.io/) - Hashbase is a public peer for peer-to-peer websites.
 * [Haskell 2010](https://www.haskell.org/onlinereport/haskell2010/) - Haskell 2010 Language Report.
 * [Haskell 98](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
@@ -643,6 +644,9 @@ draft: false
 * [s3-lambda](https://github.com/littlstar/s3-lambda) -Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
 * [sbt-assembly](https://github.com/sbt/sbt-assembly) - Deploy fat JARs.
 * [sbt-revolver](https://github.com/spray/sbt-revolver) - sbt-revolver is a plugin for SBT enabling a super-fast development turnaround for your Scala applications.
+* [sbt-web-scalajs](https://github.com/vmunier/sbt-web-scalajs) - SBT plugin to use Scala.js along with any sbt-web server.
+* [sbt-web](https://github.com/sbt/sbt-web) - Library for building sbt plugins for the web.
+* [sbt-zip](https://github.com/sbt/sbt-gzip) - sbt-web plugin for gzipping assets.
 * [scala-async](https://github.com/scala/scala-async) - An asynchronous programming facility for Scala.
 * [scala-collection-contrib](https://github.com/scala/scala-collection-contrib) - This module provides various additions to the Scala 2.13 standard collections.
 * [scala-continuations](https://github.com/scala/scala-continuations) - the Scala delimited continuations plugin and library.
