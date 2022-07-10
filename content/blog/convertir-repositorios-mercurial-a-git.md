@@ -8,7 +8,7 @@ summary: Recientemente he comenzado una mudanza de los repositorios de mis proye
 
 Recientemente he comenzado una mudanza de los repositorios de mis
 proyectos abiertos en Bitbucket a
-[GitHub](https://github.com/atmantree), esto ha hecho necesario que
+[GitHub](https://github.com/carlosgruiz-dev), esto ha hecho necesario que
 migre algunos de ellos que se encuentran en Mercurial a git. Las
 soluciones que había conseguido hasta ahora eran cuando menos
 engorrosas, pero hoy di con una que funciona de maravillas. Y se las
@@ -16,7 +16,7 @@ comento por acá, se llama
 [fast-export](http://repo.or.cz/w/fast-export.git) y es muy simple de
 utilizar, el paso a paso se describe sólo:
 
-```bash 
+```bash
 $ git clone git://repo.or.cz/fast-export.git
 $ git init nuevo_repositorio
 $ cd nuevo_repositorio
@@ -26,4 +26,3 @@ $ git checkout HEAD
 
 Pocos segundos después obtuve una copia de mi repositorio en formato git
 junto con un resumen de las operaciones realizadas.
-

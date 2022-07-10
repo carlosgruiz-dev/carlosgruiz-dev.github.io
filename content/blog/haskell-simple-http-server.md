@@ -9,7 +9,7 @@ I'm pushing myself to learn Haskell, but I realized that the best way to learn i
 to make things, broke them and build them again. So I decided to start a toy
 project to create a substitute for commands like `$ python3 -m http.server` or
 `$ php -S 0.0.0.0:8000` that fires a simple HTTP server to look your HTML files.
-For this, I have a [twitter thread](https://twitter.com/atmantree/status/897987573024399361)
+For this, I have a [twitter thread](https://twitter.com/octonemo/status/897987573024399361)
 to log me and avoid procrastination.
 
 <!--more-->
@@ -26,7 +26,7 @@ use this could be a good idea. On [NodeJS](https://nodejs.org/) we can walk thro
 this with this snippet:
 
 {{< rawhtml >}}
-<script src="https://gist.github.com/atmantree/effb9afcf5c82399a609ad622fc99a61.js"></script>
+<script src="https://gist.github.com/carlosgruiz-dev/effb9afcf5c82399a609ad622fc99a61.js"></script>
 {{< /rawhtml >}}
 
 It's self-explaining, we call for a module _(line 1)_, define a server _(lines 2-7)_
@@ -41,14 +41,13 @@ creating [Simple Servers](https://wiki.haskell.org/Simple_Servers), plus it is i
 concurrent fashion.
 
 {{< rawhtml >}}
-<script src="https://gist.github.com/atmantree/214d3da2f2814dfe3edaa8ae42b51bd0.js"></script>
+<script src="https://gist.github.com/carlosgruiz-dev/214d3da2f2814dfe3edaa8ae42b51bd0.js"></script>
 {{< /rawhtml >}}
 
-
-Since we are using sockets 
+Since we are using sockets
 _(line 5 [withSocketsDo](http://hackage.haskell.org/package/network-2.6.3.2/docs/Network-Socket-Internal.html#v:withSocketsDo))_
 it's clear that its lower level programming in comparison with our JavaScript reference.
-If you still have doubts just see the _line 15_, and this string 
+If you still have doubts just see the _line 15_, and this string
 `"HTTP/1.0 200\r\nContent-Length: 13\r\n\r\nHello, World!\r\n"` rings the low-level
 programming bell again.
 
@@ -66,7 +65,7 @@ are oversimplifications, but still, give us valuable information about how our
 application is going to deal with the web server.
 
 {{< rawhtml >}}
-<script src="https://gist.github.com/atmantree/ba6ba743b5f1e35e089b9227cf41009f.js"></script>
+<script src="https://gist.github.com/carlosgruiz-dev/ba6ba743b5f1e35e089b9227cf41009f.js"></script>
 {{< /rawhtml >}}
 
 To build this example you need to install two packages, since I use
@@ -100,4 +99,3 @@ Bureau of Aeronautics, U.S. Navy
 </a>
 </small>
 {{< /rawhtml >}}
-

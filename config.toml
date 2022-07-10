@@ -44,7 +44,7 @@ description = "technical curiosities log and random thoughts"
 
 
 [[menu.main]]
-identifier = "atmantree"
+identifier = "blog"
 name = "blog"
 url = "/blog/"
 weight = 30

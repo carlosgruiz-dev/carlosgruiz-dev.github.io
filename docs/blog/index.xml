@@ -40,7 +40,7 @@ video. If you want to try Haskell Stack just type this in your terminal&lt;/p&gt
 to make things, broke them and build them again. So I decided to start a toy
 project to create a substitute for commands like &lt;code&gt;$ python3 -m http.server&lt;/code&gt; or
 &lt;code&gt;$ php -S 0.0.0.0:8000&lt;/code&gt; that fires a simple HTTP server to look your HTML files.
-For this, I have a &lt;a href=&#34;https://twitter.com/atmantree/status/897987573024399361&#34;&gt;twitter thread&lt;/a&gt;
+For this, I have a &lt;a href=&#34;https://twitter.com/octonemo/status/897987573024399361&#34;&gt;twitter thread&lt;/a&gt;
 to log me and avoid procrastination.&lt;/p&gt;</description>
     </item>
     
@@ -265,7 +265,7 @@ conseguí algunas curiosidades que valen la pena compartir.&lt;/p&gt;</descripti
       <guid>https://carlosgustavoruiz.me/blog/integrando-cpp-con-python/</guid>
       <description>&lt;p&gt;Durante el &lt;a href=&#34;https://carlosgustavoruiz.me/posts/pycon-venezuela-2012.html&#34;&gt;PyCon
 Venezuela&lt;/a&gt; hice una
-charla llamada &lt;a href=&#34;https://github.com/atmantree/atmantree/raw/master/talks/2012/Integrando-mis-librer%C3%ADas-C%2B%2B-con-Python.pdf&#34;&gt;Integrando mis librerías C++ con
+charla llamada &lt;a href=&#34;https://github.com/carlosgruiz-dev/carlosgruiz-dev/raw/master/talks/2012/Integrando-mis-librer%C3%ADas-C%2B%2B-con-Python.pdf&#34;&gt;Integrando mis librerías C++ con
 Python&lt;/a&gt;,
 sin embargo quedó pendiente la parte práctica de la misma. Es por ello
 que decidí convertir el taller en un post donde de muestre los ejemplos

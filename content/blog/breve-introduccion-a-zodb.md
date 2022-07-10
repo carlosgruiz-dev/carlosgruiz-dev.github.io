@@ -373,4 +373,4 @@ links podrá avanzar sin problemas:
 - <http://www.upfrontsystems.co.za/Members/roche/where-im-calling-from/zodb-benchmarks-revisited>
 
 El código fuente de este artículo se encuentra en
-[github](https://github.com/atmantree/post-introduccion-zodb).
+[github](https://github.com/carlosgruiz-dev/post-introduccion-zodb).

@@ -27,7 +27,7 @@ video. If you want to try Haskell Stack just type this in your terminal&lt;/p&gt
 to make things, broke them and build them again. So I decided to start a toy
 project to create a substitute for commands like &lt;code&gt;$ python3 -m http.server&lt;/code&gt; or
 &lt;code&gt;$ php -S 0.0.0.0:8000&lt;/code&gt; that fires a simple HTTP server to look your HTML files.
-For this, I have a &lt;a href=&#34;https://twitter.com/atmantree/status/897987573024399361&#34;&gt;twitter thread&lt;/a&gt;
+For this, I have a &lt;a href=&#34;https://twitter.com/octonemo/status/897987573024399361&#34;&gt;twitter thread&lt;/a&gt;
 to log me and avoid procrastination.&lt;/p&gt;</description>
     </item>
     

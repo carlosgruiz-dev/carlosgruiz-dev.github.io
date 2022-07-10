@@ -13,7 +13,7 @@ Taller de Geo Gobierno en Línea**. Fue una actividad muy agradable pues
 involucró bastantes de las cosas en que he trabajado por algún tiempo.
 El [Geoportal](http://geo.gobiernoenlinea.gob.ve/) de la página Gobierno
 en Línea me fue encargada hace algún tiempo, y fue el inicio del
-[proyecto de Geoportal](https://github.com/atmantree/geoportal-webpage/)
+[proyecto de Geoportal](https://github.com/carlosgruiz-dev/geoportal-webpage/)
 que actualmente mantengo. En el mismo hice uso de varias tecnologías de
 mapas que valdría la pena nombrar en otra publicación.
 

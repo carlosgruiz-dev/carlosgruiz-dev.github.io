@@ -550,7 +550,7 @@ def show(request):
 
 Para completar inicie su aplicación y vea los cambios, si observa algún
 error compare su código con el del repositorio en
-[GitHub](https://github.com/atmantree/post-intro-pyramid) que acompaña
+[GitHub](https://github.com/carlosgruiz-dev/post-intro-pyramid) que acompaña
 este artículo.
 
 ### Mi primera aplicación

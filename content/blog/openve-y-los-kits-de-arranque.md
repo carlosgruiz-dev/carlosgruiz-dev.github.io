@@ -75,7 +75,7 @@ El esqueleto de los kits es bastante estándar:
     revisar y mejorar la guía.
 
 Inicié con las guías para C, C++ y Python en un fork a [mi cuenta
-GitHub](http://github.com/atmantree) de los [repositorios de
+GitHub](http://github.com/carlosgruiz-dev) de los [repositorios de
 OpenVE](https://github.com/openve), sin embargo la idea es enviar allí
 las guías en cuanto estén avanzadas. Si le gusta este modelo de guía,
 siéntase confiado en utilizarla para el lenguaje de su preferencia.

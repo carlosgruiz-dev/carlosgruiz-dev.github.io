@@ -13,7 +13,7 @@ Estado Sucre, Venezuela) tuve la oportunidad de presentar la ponencia
 del equipo de [tubasededatoslibre.org](http://tubasededatoslibre.org).
 En esta dirección están los scripts y guiones que utilicé como ejemplos
 durante la presentación
-<https://github.com/atmantree/presentacion-bd40000>.
+<https://github.com/carlosgruiz-dev/presentacion-bd40000>.
 
 
 {{< rawhtml >}}

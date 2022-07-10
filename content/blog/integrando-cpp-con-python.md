@@ -8,7 +8,7 @@ tags: [talks, c++, pycon venezuela, python, spanish]
 Durante el [PyCon
 Venezuela](/posts/pycon-venezuela-2012.html) hice una
 charla llamada [Integrando mis librerías C++ con
-Python](https://github.com/atmantree/atmantree/raw/master/talks/2012/Integrando-mis-librer%C3%ADas-C%2B%2B-con-Python.pdf),
+Python](https://github.com/carlosgruiz-dev/carlosgruiz-dev/raw/master/talks/2012/Integrando-mis-librer%C3%ADas-C%2B%2B-con-Python.pdf),
 sin embargo quedó pendiente la parte práctica de la misma. Es por ello
 que decidí convertir el taller en un post donde de muestre los ejemplos
 prácticos con algunos comentarios.
@@ -43,7 +43,7 @@ comenzando por incrustar Python dentro de C++ a alto nivel, el uso de
 [Boost](http://www.boost.org/). En cada caso se incluyen los listados de
 los fuentes y los comandos para su compilación y ejecución. Igualmente
 puede descargar la [guía de
-ejercicios](https://github.com/atmantree/atmantree/raw/master/talks/2012/integrando-cpp-python.tar.gz)
+ejercicios](https://github.com/carlosgruiz-dev/carlosgruiz-dev/raw/master/talks/2012/integrando-cpp-python.tar.gz)
 si así lo desea. Estos ejercicios fueron probados en [Debian 6.0
 Estable](http://www.debian.org/releases/squeeze/), haga los ajustes en
 caso de tener otra plataforma en su computador. Finalmente recuerde

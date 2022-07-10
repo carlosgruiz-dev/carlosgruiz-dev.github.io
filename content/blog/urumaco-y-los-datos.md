@@ -8,7 +8,7 @@ summary: Urumaco es de esos proyectos donde comienzas a estudiar una tecnología
 
 ![Logo Urumaco](/images/valessiobrito_Hoof_of_Green_Turtle.png)
 
-[Urumaco](https://github.com/atmantree/urumaco) es de esos proyectos
+[Urumaco](https://github.com/carlosgruiz-dev/urumaco) es de esos proyectos
 donde comienzas a estudiar una tecnología y poco a poco te involucras en
 algo más grande. Además es un desarrollo al que le he tomado cariño. No
 está ni cerca de estar terminado por muchas razones: la primera es
