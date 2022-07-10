@@ -41,4 +41,3 @@ visite <http://echandocodigo.com/pods/10>, o use este link para su
 descarga desde esta página o puede usar el reproductor que se encuentra
 [aquí](https://atmantree.keybase.pub/page/extras/10.mp3)
 para escucharlo en línea.
-

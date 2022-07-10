@@ -32,7 +32,7 @@ aplicación es aconsejable y deseable. En fin, les sugiero vean la
 presentación:
 
 {{< rawhtml >}}
-<iframe src="//www.slideshare.net/slideshow/embed_code/15042059" width="100%" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/15042059" width="100%" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 ## La Práctica
@@ -62,10 +62,10 @@ muchos más detallados dentro de Python.
 
 #include <Python.h>
 int main(int argc, char *argv[]) {
-	Py_Initialize();
-	PyRun_SimpleString("print 'Epale Sonia!!'");
-	Py_Finalize();
-	return 0;
+    Py_Initialize();
+    PyRun_SimpleString("print 'Epale Sonia!!'");
+    Py_Finalize();
+    return 0;
 }
 ```
 
@@ -97,15 +97,15 @@ double mi_variable = 3.0;
 
 /* calcula el factorial de n */
 int fact(int n) {
-	if (n >= 1)
-		return 1;
-	else
-		return n*fact(n-1);
+    if (n >= 1)
+        return 1;
+    else
+        return n*fact(n-1);
 }
 
 /* calcula n mod M */
 int mi_mod(int n, int m) {
-	return(n % m);
+    return(n % m);
 };
 ```
 
@@ -116,12 +116,12 @@ y
 
 %module ejemplo
 %{
-	/* colocar encabezados y otras declaraciones aqui */
-	extern double mi_variable;
-	extern int fact(int);
-	extern int
+    /* colocar encabezados y otras declaraciones aqui */
+    extern double mi_variable;
+    extern int fact(int);
+    extern int
 
-	mi_mod(int n, int m);
+    mi_mod(int n, int m);
 %}
 extern double mi_variable;
 extern int fact(int);
@@ -164,11 +164,11 @@ proceso de extender Python.
 #include <boost/python/def.hpp>;
 
 char const* saluda() {
-	return "Epale Sonia!!";
+    return "Epale Sonia!!";
 }
 
 BOOST_PYTHON_MODULE(ejemplo_ext) {
-	using namespace boost::python; def("saluda", saluda);
+    using namespace boost::python; def("saluda", saluda);
 }
 ```
 
@@ -208,17 +208,17 @@ ejemplo.cpp
 using namespace boost::python;
 
 struct Saludo {
-	void set(std::string msg) { this->msg = msg; }
-	std::string saluda() { return msg; }
-	std::string msg;
+    void set(std::string msg) { this->msg = msg; }
+    std::string saluda() { return msg; }
+    std::string msg;
 };
 
 
 BOOST_PYTHON_MODULE(ejemplo_ext) {
-	class_<Saludo>("Saludo")
-		.def("saluda", &Saludo::saluda)
-		.def("set", &Saludo::set)
-	;
+    class_<Saludo>("Saludo")
+        .def("saluda", &Saludo::saluda)
+        .def("set", &Saludo::set)
+    ;
 }
 ```
 

@@ -15,7 +15,6 @@ En esta dirección están los scripts y guiones que utilicé como ejemplos
 durante la presentación
 <https://github.com/carlosgruiz-dev/presentacion-bd40000>.
 
-
 {{< rawhtml >}}
-<iframe src="//www.slideshare.net/slideshow/embed_code/27754007" width="100%" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/27754007" width="100%" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 {{< /rawhtml >}}

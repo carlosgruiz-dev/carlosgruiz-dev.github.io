@@ -229,7 +229,7 @@ Welcome to Pyramid.  Sorry for the convenience.
 Ahora tendrá un sistema como resultado del comando ‘pcreate‘ el
 andamiaje listo para su aplicación mediante esta estructura de archivos.
 
-```bash 
+```bash
 MyApp/
     myapp/
         scripts/
@@ -314,7 +314,7 @@ Note lo siguiente, como Pyramid publica por la dirección
 través de su dirección IP, sin embargo la barra de depuración sólo está
 disponible para los usuarios locales.
 
-![](/images/pyramid.gif)
+![pyramid](/images/pyramid.gif)
 
 ## Modificando el Armazón
 
@@ -574,7 +574,7 @@ a continuación el listado de los comentarios recibidos y finalmente al
 hacer click en el vínculo asociado a alguno de los comentarios listados
 verá el texto completo del comentario. A continuación unos pantallazos.
 
-![](/images/pyramid_app.gif)
+![pyramid app](/images/pyramid_app.gif)
 
 Hay muchos detalles convenientes en el uso de Pyramid, en especial me ha
 sido útil para dar representación web a proyectos generados en otros
@@ -600,5 +600,3 @@ la pena echarles un vistazo:
   [github.com/Pylons/pyramid\_tutorials](https://github.com/Pylons/pyramid_tutorials)
 - Comparativa de rendimiento con otros frameworks:
   <http://blog.curiasolutions.com/the-great-web-framework-shootout/>
-
-

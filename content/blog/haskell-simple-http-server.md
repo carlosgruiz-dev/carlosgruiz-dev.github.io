@@ -94,7 +94,7 @@ And this is all for now, hope you find this post useful.
 
 {{< rawhtml >}}
 <small>Credits for the plane blueprints image to the
-<a href="https://commons.wikimedia.org/wiki/File:General_Motors_TBM-3S_Avenger_3-side-view_Blueprint.png"> 
+<a href="https://commons.wikimedia.org/wiki/File:General_Motors_TBM-3S_Avenger_3-side-view_Blueprint.png">
 Bureau of Aeronautics, U.S. Navy
 </a>
 </small>
